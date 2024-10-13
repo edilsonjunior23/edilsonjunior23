@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @edilsonjunior23
+- 👋 Hi, I’m Edilson Junior
 - 👀 Estou interessado em aprender sobre á area de TI e descobrir uma área em que eu me in dentifique
 - 🌱 Estou estudando ADS, 1º semestre no UNICEUB
 - 💞️ Espero conseguir colaborar em projetos e compartilhar os meus aqui no GIT
