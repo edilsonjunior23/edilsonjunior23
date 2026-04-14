@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Edilson Junior
-- 🌱 Estou estudando ADS, 2º semestre no UNICEUB
+- 🌱 Estou estudando ADS, 4º semestre no UNICEUB
 - Linkedin https://www.linkedin.com/in/edilson-nogueira/
 
 
